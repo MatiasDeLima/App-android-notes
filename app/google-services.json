@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027375921040",
+    "project_id": "imersaofabsoft",
+    "storage_bucket": "imersaofabsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027375921040:android:1f131a46502c30218ee515",
+        "android_client_info": {
+          "package_name": "com.example.fabricadesoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027375921040-6fg1qeeoodholhtl35shn0aotgfo53rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiF4kZxuiE9VmJDlcYnu9R-bTdyVJGA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027375921040-6fg1qeeoodholhtl35shn0aotgfo53rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
